@@ -1,0 +1,37 @@
+{
+  "commands": [
+    {
+      "text": "тишина",
+      "action_type": "key",
+      "action_value": "f6"
+    },
+    {
+      "text": "телега",
+      "action_type": "app",
+      "action_value": "telegram"
+    },
+    {
+      "text": "volume up",
+      "action_type": "key",
+      "action_value": "f8"
+    },
+    {
+      "text": "volume down",
+      "action_type": "key",
+      "action_value": "f7"
+    },
+    {
+      "text": "музыка",
+      "action_type": "app",
+      "action_value": "яндекс"
+    }
+  ],
+  "settings": {
+    "gpt_models": "Mistral",
+    "search_system": "Яндекс",
+    "search_video": "VKвидео",
+    "name": "Артём",
+    "your_message": "Отвечай вежливо, как дворецкие в фильмах",
+    "tokens": "200"
+  }
+}
